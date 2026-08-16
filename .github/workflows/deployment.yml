@@ -31,6 +31,8 @@ jobs:
       # Stage 2: Run Tests (Gates the build)
       - name: Run Pytest
         id: stage_test
+        env:
+          MONGO_URI: ${{ secrets.MONGO_URI }}
         run: |
           pytest
 

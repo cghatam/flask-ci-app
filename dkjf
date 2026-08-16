@@ -1,0 +1,139 @@
+[33mcommit bdda0597e08eacac719370e281d91b2a579642b9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Chandrasekhar G <ghatam.chandra@gmail.com>
+Date:   Sun Aug 16 20:52:55 2026 +0530
+
+    Second version
+
+[33mcommit 4f781e42d27c0c42804f9d8e752ec7ea4ee2f4d7[m
+Author: Chandrasekhar G <ghatam.chandra@gmail.com>
+Date:   Sat Aug 15 23:14:21 2026 +0530
+
+    Initial version
+
+[33mcommit e3e3c6e5af76d5ad25a777c9b19bb88510a8c8b4[m
+Author: Saima Usman <dzinesfactory@gmail.com>
+Date:   Sun Jul 5 23:41:44 2026 +0400
+
+    new scan with securegate ai by saima
+
+[33mcommit 7b1dc12067f3ae7a4d8339bbc866267313c40d8b[m
+Author: Saima Usman <dzinesfactory@gmail.com>
+Date:   Sat Jul 4 11:06:59 2026 +0400
+
+    Create securegate-summary.yaml
+
+[33mcommit dc15e200d085a64d5b5debe7ad738358e19cbb0c[m
+Author: Saima Usman <dzinesfactory@gmail.com>
+Date:   Sat Jul 4 11:05:54 2026 +0400
+
+    Create securegate.yml
+
+[33mcommit a65c4f3b708afed6e8651bc25be926ed3f885e0f[m
+Author: mohanDevOps-arch <kandikuppa.krishna@herovired.com>
+Date:   Thu Apr 23 14:32:17 2026 +0530
+
+    MacOS requirements are added
+
+[33mcommit f3ca8c0896eb92b80ba26b9301847ab9c246fc9b[m
+Author: mohanDevOps-arch <kandikuppa.krishna@herovired.com>
+Date:   Sun Nov 2 12:35:27 2025 +0530
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit f41c6e922593399cf8f632f352c1e72ab30d29aa[m
+Author: mohanDevOps-arch <kandikuppa.krishna@herovired.com>
+Date:   Sun Nov 2 12:27:25 2025 +0530
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit cc63ff258d2671bc37a4d3a1fd8f675b15b182df[m
+Author: mohanDevOps-arch <kandikuppa.krishna@herovired.com>
+Date:   Sun Nov 2 12:14:44 2025 +0530
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit ce34814287a2fa90d4e504b36ecaf3737c6cb3b4[m
+Author: mohanDevOps-arch <kandikuppa.krishna@herovired.com>
+Date:   Sun Nov 2 11:50:03 2025 +0530
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 54a0028c0db38ac8f4fa90e424a67a659f5c576e[m
+Author: mohanDevOps-arch <kandikuppa.krishna@herovired.com>
+Date:   Sun Nov 2 11:30:46 2025 +0530
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit f9b065e34fd8c9fe3fc5cc8766d9b562fce58354[m
+Author: mohanDevOps-arch <kandikuppa.krishna@herovired.com>
+Date:   Wed Oct 22 18:41:55 2025 +0530
+
+    Remove duplicate entries in requirements.txt
+
+[33mcommit ca85974e7870fab05ed597d75a57eb22b9b5f211[m
+Author: mohanDevOps-arch <kandikuppa.krishna@herovired.com>
+Date:   Wed Oct 22 18:03:05 2025 +0530
+
+    Update start_flask.sh to use sudo for installations
+
+[33mcommit 4b50f6cb571f858f7149d1fa54af4a381145eb19[m
+Author: mohanDevOps-arch <kandikuppa.krishna@herovired.com>
+Date:   Wed Oct 22 17:55:40 2025 +0530
+
+    Create start_flask.sh
+
+[33mcommit 31d76d5f5e989823c4e224ee61295664a5b601a9[m
+Author: mohanDevOps-arch <kandikuppa.krishna@herovired.com>
+Date:   Wed Oct 22 17:20:30 2025 +0530
+
+    Change app to run on 0.0.0.0
+    
+    Updated app to run on all interfaces and improved formatting.
+
+[33mcommit 8c507aa33f2d03da25cb0a8c856f2e30e6a447f1[m
+Author: mohanDevOps-arch <kandikuppa.krishna@herovired.com>
+Date:   Tue Oct 21 15:14:32 2025 +0530
+
+    Change application port from 8000 to 5000
+    
+    Updated the application to run on port 5000 instead of 8000.
+
+[33mcommit 130e0e2a742182d11e1a9098d04ae8d61ed1af70[m
+Author: mohanDevOps-arch <kandikuppa.krishna@herovired.com>
+Date:   Tue Oct 21 15:05:26 2025 +0530
+
+    Add additional dependencies to requirements.txt
+
+[33mcommit fa16adf4335c422a02a196f39c851bd94cbbdd82[m
+Author: mohanDevOps-arch <kandikuppa.krishna@herovired.com>
+Date:   Tue Oct 21 14:56:11 2025 +0530
+
+    Add files via upload
+
+[33mcommit e09d159462552bb3d5bdc926cac76d2c76a80dbe[m
+Author: Mohan krishna <139565500+mohanvedase@users.noreply.github.com>
+Date:   Sat Sep 20 14:18:19 2025 +0530
+
+    Update README.md
+
+[33mcommit d4e6989ce125b754c9080b0a87a96a7daf053346[m
+Author: Mohan krishna <139565500+mohanvedase@users.noreply.github.com>
+Date:   Sat Sep 20 14:01:19 2025 +0530
+
+    Update README.md
+
+[33mcommit b850e20944b468da0e9afad42b2301da2d7b70eb[m
+Author: Mohan krishna <139565500+mohanvedase@users.noreply.github.com>
+Date:   Sat Sep 20 13:57:04 2025 +0530
+
+    Add files via upload
+
+[33mcommit 3850637ad5648de7b8b3a8c6ba02647d239ccae9[m
+Author: Mohan krishna <139565500+mohanvedase@users.noreply.github.com>
+Date:   Sat Sep 20 13:55:59 2025 +0530
+
+    Initial commit
