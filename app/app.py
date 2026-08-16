@@ -19,6 +19,7 @@ mongo = PyMongo(app, tlsCAFile=certifi.where())
 # Home page -> list students
 @app.route('/')
 def index():
+    print("Fetching all students...")
     students = mongo.db.students.find()
     return render_template('index.html', students=students)
 
